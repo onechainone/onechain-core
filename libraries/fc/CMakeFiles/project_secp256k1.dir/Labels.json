@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1-complete.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-install.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-mkdir.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-download.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-update.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-patch.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-configure.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-build.rule"
+		},
+		{
+			"file" : "/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-autogen.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_secp256k1"
+		],
+		"name" : "project_secp256k1"
+	}
+}

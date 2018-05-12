@@ -1,0 +1,1 @@
+cmd='/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/configure;--prefix=/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp;--with-bignum=no'

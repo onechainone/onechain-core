@@ -1,0 +1,14 @@
+# Target labels
+ project_secp256k1
+# Source files and their labels
+/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1
+/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1.rule
+/alidata/one-compile/onechain-core/libraries/fc/CMakeFiles/project_secp256k1-complete.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-install.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-mkdir.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-download.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-update.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-patch.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-configure.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-build.rule
+/alidata/one-compile/onechain-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-autogen.rule
